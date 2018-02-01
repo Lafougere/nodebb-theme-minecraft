@@ -1,0 +1,24 @@
+{
+  "name": "nodebb-theme-minecraft",
+  "version": "1.0.0",
+  "description": "A Minecraft theme for NodeBB",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "theme",
+    "nodebb",
+    "minecraft"
+  ],
+  "author": "Axel Glorieux",
+  "license": "GPL-3.0",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lafougere/nodebb-theme-minecraft.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Lafougere/nodebb-theme-minecraft/issues"
+  },
+  "homepage": "https://github.com/Lafougere/nodebb-theme-minecraft#readme"
+}

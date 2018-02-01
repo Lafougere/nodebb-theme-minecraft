@@ -1,0 +1,8 @@
+{
+    "id": "theme-minecraft",
+    "name": "Minecraft",
+    "description": "A Minecraft theme for NodeBB.",
+    "screenshot": "screenshot.png",
+    "url": "https://github.com/Lafougere/nodebb-theme-minecraft",
+    "baseTheme": "nodebb-theme-vanilla"
+}
