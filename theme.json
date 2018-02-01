@@ -1,5 +1,5 @@
 {
-    "id": "theme-minecraft",
+    "id": "nodebb-theme-minecraft",
     "name": "Minecraft",
     "description": "A Minecraft theme for NodeBB.",
     "screenshot": "screenshot.png",
