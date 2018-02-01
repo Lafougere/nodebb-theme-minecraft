@@ -1,6 +1,6 @@
 {
   "name": "nodebb-theme-minecraft",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A Minecraft theme for NodeBB",
   "main": "index.js",
   "scripts": {
